@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+h5, h4, h3, h2{
+  font-family: 'Gloria Hallelujah', cursive;
 }
